@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="头文件\UniversalModelProcess">
+      <UniqueIdentifier>{aae98c04-93ee-4b7a-aeec-88d1cdaacbe1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\UniversalModelProcess\3DEngine">
+      <UniqueIdentifier>{c767110b-b3a9-44c0-843e-6b4f47daae1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\UniversalModelProcess\ModelManage">
+      <UniqueIdentifier>{f8d998ac-5691-4ca2-8506-44e7e52e8a1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\UniversalModelProcess\TextureManage">
+      <UniqueIdentifier>{c6b9c4a1-195d-4e8a-a0da-a310f0dd0174}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\UniversalModelProcess\ModelInteract">
+      <UniqueIdentifier>{beda3dd6-4edb-4319-83d9-3e0df64474ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Network">
+      <UniqueIdentifier>{cd620ff6-5371-4350-aa88-46ea6ac9cf19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\ToothModelPostProcess">
+      <UniqueIdentifier>{22133ca3-096e-4a5b-b101-1e734684e2ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Network">
+      <UniqueIdentifier>{746fe6f5-4897-470f-bc9a-70d3ad2e16b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\UniversalModelProcess">
+      <UniqueIdentifier>{72abac56-7ee0-49c2-bfb2-8a586671330b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\UniversalModelProcess\3DEngine">
+      <UniqueIdentifier>{741863b8-386b-416d-a6ee-6a3afcd2f11a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\UniversalModelProcess\ModelManage">
+      <UniqueIdentifier>{05da3aef-6846-4575-9daa-7f4b1b38afe5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\UniversalModelProcess\ModelInteract">
+      <UniqueIdentifier>{5f6854c8-ecd7-4281-b90d-b775bca0b44b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\UniversalModelProcess\TextureManage">
+      <UniqueIdentifier>{927eb332-847f-4d2e-882a-1c42b4343a42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Network\BaseNetwork">
+      <UniqueIdentifier>{d8c29dc6-c195-4b50-8b70-ade939b5ee33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Network\Authentication">
+      <UniqueIdentifier>{56f66583-b0da-4b24-8e59-1af218eb86db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Network\BaseNetwork">
+      <UniqueIdentifier>{35e417b5-349d-4cc9-84a3-1bdd46679da3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Network\Authentication">
+      <UniqueIdentifier>{8e7770bc-5367-4e60-b89e-5abb59ccc9c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\ToothModelScanProcess">
+      <UniqueIdentifier>{62cd8c18-5d82-4685-b7c7-7f8f59d1ec3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\ToothModelScanProcess">
+      <UniqueIdentifier>{b6305d4d-c47c-4e77-a7b6-a29174f34c47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\ToothModelPostProcess">
+      <UniqueIdentifier>{e5b15b11-eebd-40c5-a0cc-5737b0da0e92}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

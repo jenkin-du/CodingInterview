@@ -149,10 +149,12 @@
     <ClCompile Include="selectSort.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="quickSort.cpp" />
+    <ClCompile Include="sortAge.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="selectSort.h" />
     <ClInclude Include="quickSort.h" />
+    <ClInclude Include="sortAge.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

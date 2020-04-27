@@ -15,7 +15,7 @@ int getIndex(int arr[], int low, int high) {
 		while (low < high&&arr[low] <= key) {
 			low++;
 		}
-		if (arr[low] > key) {
+		if (low < high) {
 			arr[high] = arr[low];
 		}
 	}
